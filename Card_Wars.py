@@ -1,3 +1,5 @@
+# There still are some exceptions but they are very rare and I don't consider it worth the effort to adress them, since the app is for practice only
+
 import random
 import sys
 import time
